@@ -1,18 +1,21 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", Fuck
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv1
-
-#EXTINF:-1 tvg-id="TV2.my" ch-number="102" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv2.png", 102 TV2
-https://www.dropbox.com/scl/fi/99m9w4tnloynsd8h3jjjy/epl1.m3u8?rlkey=ecu4hr54fnmx7tguw6jnk6q92&st=s630467g&dl=1
-
-#EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
-https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=642032&channel=tv3
+"statusCode": true,
+"responseCode": 200,
+"message": "Kode aktivasi berhasil login, terimakasih sudah berlangganan!",
+"data": [
+"code" :
+"TIGERTV2038"
+"date":
+"2026-03-30 00:05:34",
+"signature": "DK7b/coRLyzGK1e5ws0hf1Fm3JbxHoE1NLjuXFde7pgx8eF/
+oCOsPifj248atJ5qw9qkKecyekDyGvwlp8Bx4b22wA
++AeWRLjvtPdAPEdQt8LbpwU3o0ocS8v4GZcb3BowW3imk/
+hvibfdm6WDiEDq4aFo7BGjDkzUCdFc03Yxu0Go5quiC9100cSSCMT/IazCCCpEn/
+WFITDGiMMXn/Xz7btJN4ryNcvryZGxZCdmJJn/7+hZ+gdrvHkCHEfeW2W1032/
+v97XgBBm0DWNN095EgCpd/8BiXF5ss8bcIDGDOVKSpG3zp1FzUesRHZre2419990cEc3zcS
++akIEGZuEzJKgWO/dXsR1jpjjuiP4Q+NMGA23PDtvYMVCz1WN8
++EjvFWXFhJGC9NBxwraiNdc35b+XT4eETru/a60gbC2WuzsURLN97A3inJYOCXfE/
+kYx5N5o5ymA3/K20ftq1cm4+5UUA7NEVACOhjpDDAVTo622nKmT2AspyK+czekaa/
+eoelSIHq2WF3YA1FwuIs9gWh10ztibIPY5KA3SCoUYFj3Bk0X3
++JFS556A4P4QITdS3kUGmrnj08g1GOWVa05y6sFeNBGWntZvoyYo
++WJ1S4hmMnUFnquZIjF777jUKbRaNP319MbQDhA5sE8EH8ZPUmoLLkvSvM2W2FCCgMTLM9y
+YL/9PCrzzovo1wGrYkecS6N2RiS00i1pUSXOw+VF1ESCZB04v/
