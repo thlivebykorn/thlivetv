@@ -1,21 +1,27 @@
-"statusCode": true,
-"responseCode": 200,
-"message": "Kode aktivasi berhasil login, terimakasih sudah berlangganan!",
-"data": [
-"code" :
-"TIGERTV2038"
-"date":
-"2026-03-30 00:05:34",
-"signature": "DK7b/coRLyzGK1e5ws0hf1Fm3JbxHoE1NLjuXFde7pgx8eF/
-oCOsPifj248atJ5qw9qkKecyekDyGvwlp8Bx4b22wA
-+AeWRLjvtPdAPEdQt8LbpwU3o0ocS8v4GZcb3BowW3imk/
-hvibfdm6WDiEDq4aFo7BGjDkzUCdFc03Yxu0Go5quiC9100cSSCMT/IazCCCpEn/
-WFITDGiMMXn/Xz7btJN4ryNcvryZGxZCdmJJn/7+hZ+gdrvHkCHEfeW2W1032/
-v97XgBBm0DWNN095EgCpd/8BiXF5ss8bcIDGDOVKSpG3zp1FzUesRHZre2419990cEc3zcS
-+akIEGZuEzJKgWO/dXsR1jpjjuiP4Q+NMGA23PDtvYMVCz1WN8
-+EjvFWXFhJGC9NBxwraiNdc35b+XT4eETru/a60gbC2WuzsURLN97A3inJYOCXfE/
-kYx5N5o5ymA3/K20ftq1cm4+5UUA7NEVACOhjpDDAVTo622nKmT2AspyK+czekaa/
-eoelSIHq2WF3YA1FwuIs9gWh10ztibIPY5KA3SCoUYFj3Bk0X3
-+JFS556A4P4QITdS3kUGmrnj08g1GOWVa05y6sFeNBGWntZvoyYo
-+WJ1S4hmMnUFnquZIjF777jUKbRaNP319MbQDhA5sE8EH8ZPUmoLLkvSvM2W2FCCgMTLM9y
-YL/9PCrzzovo1wGrYkecS6N2RiS00i1pUSXOw+VF1ESCZB04v/
+{
+  "statusCode": true,
+  "responseCode": 200,
+  "message": "Playlist fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "title": "Sample Video 1",
+      "description": "This is a sample playlist item",
+      "url": "https://example.com/video1.m3u8",
+      "thumbnail": "https://example.com/thumb1.jpg",
+      "category": "Entertainment",
+      "duration": "10:25",
+      "created_at": "2026-03-30 00:05:34"
+    },
+    {
+      "id": 2,
+      "title": "Sample Video 2",
+      "description": "Another playlist item",
+      "url": "https://example.com/video2.m3u8",
+      "thumbnail": "https://example.com/thumb2.jpg",
+      "category": "News",
+      "duration": "08:10",
+      "created_at": "2026-03-30 00:10:12"
+    }
+  ]
+}
