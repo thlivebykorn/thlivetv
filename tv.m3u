@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600"
+
+# =======================================================
+# Last Update: 2025-10-27 09:32:00 UTC+07 ICT
+# =======================================================
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+http://main.matatvhd.shop:80/play/O45-otJjcJ_YlQ8Ec3MoD7pdK_S5rw6XPaWz4vVHu18
+
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://load1.v2h-cdn.com/digitaltv/nbt/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV", TPBS
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://load1.v2h-cdn.com/digitaltv/tpbs/playlist.m3u8
