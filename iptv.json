@@ -1,27 +1,797 @@
-{
-  "statusCode": true,
-  "responseCode": 200,
-  "message": "Playlist fetched successfully",
-  "data": [
+[
+
     {
-      "id": 1,
-      "title": "Sample Video 1",
-      "description": "This is a sample playlist item",
-      "url": "https://example.com/video1.m3u8",
-      "thumbnail": "https://example.com/thumb1.jpg",
-      "category": "Entertainment",
-      "duration": "10:25",
-      "created_at": "2026-03-30 00:05:34"
+
+        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+
+        "fileSize": 38362,
+
+        "status": 1,
+
+        "authors": [
+
+            "doGior"
+
+        ],
+
+        "tvTypes": [
+
+            "Others"
+
+        ],
+
+        "version": 13,
+
+        "internalName": "YouTube",
+
+        "description": "Videos, playlists and channels from YouTube",
+
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
+
+        "name": "YouTube"
+
     },
+
     {
-      "id": 2,
-      "title": "Sample Video 2",
-      "description": "Another playlist item",
-      "url": "https://example.com/video2.m3u8",
-      "thumbnail": "https://example.com/thumb2.jpg",
-      "category": "News",
-      "duration": "08:10",
-      "created_at": "2026-03-30 00:10:12"
+
+        "iconUrl": "",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+
+        "fileSize": 37381,
+
+        "status": 1,
+
+        "authors": [
+
+            "anhdaden",
+
+            "dogior"
+
+        ],
+
+        "tvTypes": [
+
+            "Live"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "IPTV",
+
+        "description": "",
+
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
+
+        "name": ""
+
+    },
+
+    {
+
+        "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+
+        "fileSize": 62451,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Sushan64"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 42,
+
+        "internalName": "Netmirror",
+
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+
+        "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+
+        "name": "Netmirror"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+
+        "fileSize": 12721,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Phisher98"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 3,
+
+        "internalName": "Pencurimovie",
+
+        "description": "Pencurimovie ",
+
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Pencurimovie.cs3",
+
+        "name": "Pencurimovie"
+
+    },
+
+    {
+
+        "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
+
+        "jarFileSize": 187939,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+
+        "fileSize": 38517,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Phisher98"
+
+        ],
+
+        "tvTypes": [
+
+            "Anime"
+
+        ],
+
+        "version": 16,
+
+        "internalName": "Donghuastream",
+
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
+
+        "description": "Contains SeaTV (Chinese)",
+
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.cs3",
+
+        "name": "Donghuastream"
+
+    },
+
+    {
+
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+
+        "jarFileSize": 84089,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+
+        "fileSize": 20953,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Hexated,Phisher98"
+
+        ],
+
+        "tvTypes": [
+
+            "AsianDrama",
+
+            "TvSeries",
+
+            "Movie"
+
+        ],
+
+        "version": 6,
+
+        "internalName": "LayarKacaProvider",
+
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
+
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
+
+        "name": "LayarKacaProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+
+        "jarFileSize": 49870,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+
+        "fileSize": 13753,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Phisher98"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 4,
+
+        "internalName": "Pencurimovie",
+
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.jar",
+
+        "description": "Pencurimovie ",
+
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
+
+        "name": "Pencurimovie"
+
+    },
+
+    {
+
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+
+        "fileSize": 68979,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "NivinCNC,Phisher98"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 18,
+
+        "internalName": "MovieBoxProvider",
+
+        "description": "Multi Language Movies and Series Provider",
+
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
+
+        "name": "MovieBoxProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+
+        "fileSize": 73623,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "NivinCNC"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 13,
+
+        "internalName": "MovieBoxProvider",
+
+        "description": "Multi Language Movies and Series Provider",
+
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
+
+        "name": "MovieBoxProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://alkhalifitv.github.io/TV/logo/Sarangfilm.png",
+
+        "jarFileSize": 114862,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/alkhalifitv/TV",
+
+        "fileSize": 26406,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Alkhalifitv"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries",
+
+            "AsianDrama"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "Sarangfilm",
+
+        "jarUrl": "https://alkhalifitv.github.io/TV/cs3/Sarangfilm.jar",
+
+        "description": "Sarangfilm - Streaming Movie and TV Series",
+
+        "url": "https://alkhalifitv.github.io/TV/cs3/Sarangfilm.cs3",
+
+        "name": "Sarangfilm"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 33922,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "Anime",
+
+            "AnimeMovie",
+
+            "Cartoon"
+
+        ],
+
+        "version": 2,
+
+        "internalName": "AnichinProvider",
+
+        "description": "Anichin \u2014 Streaming Donghua Subtitle Indonesia",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnichinProvider.cs3",
+
+        "name": "AnichinProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon.png",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 237164,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AsianDrama",
+
+            "TvSeries",
+
+            "Movie"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "Cinemax21Provider",
+
+        "description": "CineMax21 \u2014 Streaming Movie and TV Series",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/Cinemax21Provider.cs3",
+
+        "name": "Cinemax21Provider"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 18883,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "Anime",
+
+            "AnimeMovie",
+
+            "Cartoon"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "DonghubProvider",
+
+        "description": "Donghub \u2014 Streaming Donghua Subtitle Indonesia",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/DonghubProvider.cs3",
+
+        "name": "DonghubProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 34976,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AnimeMovie",
+
+            "Anime",
+
+            "OVA"
+
+        ],
+
+        "version": 4,
+
+        "internalName": "OtakudesuProvider",
+
+        "description": "OtakuDesu \u2014 Streaming Anime Subtitle Indonesia",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/OtakudesuProvider.cs3",
+
+        "name": "OtakudesuProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 38342,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AnimeMovie",
+
+            "Anime",
+
+            "OVA"
+
+        ],
+
+        "version": 3,
+
+        "internalName": "KuronimeProvider",
+
+        "description": "Kuronime \u2014 Streaming Anime Subtitle Indonesia",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/KuronimeProvider.cs3",
+
+        "name": "KuronimeProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://new31.ngefilm.site/wp-content/uploads/2023/08/cropped-imageedit_8_4481000408-60x60.png",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 31593,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AsianDrama",
+
+            "TvSeries",
+
+            "Movie"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "NgeFilm21Provider",
+
+        "description": "NgeFilm21 \u2014 Streaming Movie and TV Series",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/NgeFilm21Provider.cs3",
+
+        "name": "NgeFilm21Provider"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 25403,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AsianDrama",
+
+            "TvSeries",
+
+            "Movie"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "OppaDramaProvider",
+
+        "description": "OppaDrama \u2014 Streaming Drama Korean, Movie and TV Series",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/OppaDramaProvider.cs3",
+
+        "name": "OppaDramaProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+
+        "jarFileSize": 58470,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 15417,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "Movie",
+
+            "TvSeries"
+
+        ],
+
+        "version": 1,
+
+        "internalName": "PencuriMovieProvider",
+
+        "jarUrl": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/PencuriMovieProvider.jar",
+
+        "description": "PencuriMovie \u2014 Streaming Movie and TV Series",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/PencuriMovieProvider.cs3",
+
+        "name": "PencuriMovieProvider"
+
+    },
+
+    {
+
+        "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
+
+        "jarFileSize": 123312,
+
+        "apiVersion": 1,
+
+        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+
+        "fileSize": 29833,
+
+        "status": 1,
+
+        "language": "id",
+
+        "authors": [
+
+            "Miku"
+
+        ],
+
+        "tvTypes": [
+
+            "AnimeMovie",
+
+            "OVA",
+
+            "Anime"
+
+        ],
+
+        "version": 3,
+
+        "internalName": "SamehadakuProvider",
+
+        "jarUrl": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/SamehadakuProvider.jar",
+
+        "description": "Samehadaku \u2014 Streaming Anime Subtitle Indonesia",
+
+        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/SamehadakuProvider.cs3",
+
+        "name": "SamehadakuProvider"
+
     }
-  ]
-}
+
+      ]
