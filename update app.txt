@@ -1,5 +1,5 @@
 {
-  "version": "3.6.8",
+  "version": "3.7.2",
   "apk_url": "https://github.com/tvtrueidred2023-sys/Upfile/raw/refs/heads/main/ดูหนัง.apk",
   "release_notes": "มีเวอร์ชั่นใหม่พร้อมอัพเดตแนะนำให้อัพเดตก่อนเข้ารับชมนะครับ"
 }
