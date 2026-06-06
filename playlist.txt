@@ -1,0 +1,410 @@
+{
+  "data": {
+    "sources": [    
+      {
+        "id": "fixmono",
+        "logo": "",
+        "name": "Fixmono",
+        "domain": "flixmono.com",
+        "categories": [
+          {
+            "id": "series_new",
+            "path": "/serie/",
+            "title": "ซีรี่ย์อัพเดท"
+          },
+          {
+            "id": "chinese_thai_dub",
+            "path": "/category/ซีรี่ย์จีนพากย์ไทย/",
+            "title": "ซีรี่ย์จีนพากย์ไทย"
+          },
+          {
+            "id": "chinese_thai_sub",
+            "path": "/category/ซีรี่ย์จีนซับไทย/",
+            "title": "ซีรี่ย์จีนซับไทย"
+          },
+          {
+            "id": "korean_thai_dub",
+            "path": "/category/ซีรี่ย์เกาหลีพากย์ไทย/",
+            "title": "ซีรี่ย์เกาหลีพากย์ไทย"
+          },
+          {
+            "id": "korean_thai_sub",
+            "path": "/category/ซีรี่ย์เกาหลีซับไทย/",
+            "title": "ซีรี่ย์เกาหลีซับไทย"
+          },
+          {
+            "id": "western",
+            "path": "/category/ดูซีรี่ย์ฝรั่ง/",
+            "title": "ซีรี่ย์ฝรั่ง"
+          },
+          {
+            "id": "japanese",
+            "path": "/category/ดูซีรี่ย์ญี่ปุ่น/",
+            "title": "ซีรี่ย์ญี่ปุ่น"
+          }
+        ]
+      },
+      {
+        "id": "goseries4k",
+        "logo": "",
+        "name": "GoSeries4K",
+        "domain": "goseries4k.com",
+        "categories": [
+          {
+            "id": "series_online",
+            "path": "/category/ดู-ซีรี่ย์ออนไลน์/",
+            "title": "ซีรี่ย์ออนไลน์"
+          },
+          {
+            "id": "chinese",
+            "path": "/category/ดู-ซีรี่ย์จีน-ออนไลน์/",
+            "title": "ซีรี่ย์จีน"
+          },
+          {
+            "id": "korean",
+            "path": "/category/ดูซีรี่ย์เกาหลี-ออนไลน์/",
+            "title": "ซีรี่ย์เกาหลี"
+          },
+          {
+            "id": "chinese_thai_dub",
+            "path": "/cat_category/ดูซีรี่ย์จีนพากย์ไทย/",
+            "title": "ซีรี่ย์จีนพากย์ไทย"
+          },
+          {
+            "id": "japanese",
+            "path": "/category/ซีรี่ย์ญี่ปุ่น/",
+            "title": "ซีรี่ย์ญี่ปุ่น"
+          },
+          {
+            "id": "western",
+            "path": "/category/ซีรี่ย์ฝรั่ง/",
+            "title": "ซีรี่ย์ฝรั่ง"
+          },
+          {
+            "id": "thai",
+            "path": "/cat_category/ซีรี่ย์ไทย-พากย์ไทย/",
+            "title": "ซีรี่ย์ไทย"
+          }
+        ]
+      },
+      {
+        "id": "wowdrama",
+        "logo": "",
+        "name": "WowDrama",
+        "domain": "wow-drama.com",
+        "categories": [
+          {
+            "id": "series_all",
+            "path": "/category/the-series-all/",
+            "title": "ซีรี่ย์ออนไลน์"
+          },
+          {
+            "id": "chinese",
+            "path": "/category/doo-free-24/",
+            "title": "ซีรี่ย์จีน"
+          },
+          {
+            "id": "korean",
+            "path": "/category/series-korea/",
+            "title": "ซีรี่ย์เกาหลี"
+          },
+          {
+            "id": "japanese",
+            "path": "/category/japan-series/",
+            "title": "ซีรี่ย์ญี่ปุ่น"
+          },
+          {
+            "id": "thai_series",
+            "path": "/category/the-series-th/",
+            "title": "ละครไทย"
+          },
+          {
+            "id": "chinese_thai_dub",
+            "path": "/cat_category/cn-2024-th/",
+            "title": "ซีรี่ย์จีนพากย์ไทย"
+          },
+          {
+            "id": "japanese_thai_dub",
+            "path": "/cat_category/jp-thai-sound/",
+            "title": "ซีรี่ย์ญี่ปุ่นพากย์ไทย"
+          },
+          {
+            "id": "korean_thai_dub",
+            "path": "/cat_category/korea-thai-sound/",
+            "title": "ซีรี่ย์เกาหลีพากย์ไทย"
+          }
+        ]
+      },
+      {
+        "id": "hdd1112",
+        "logo": "",
+        "name": "1112HDD",
+        "domain": "1112hd.live",
+        "categories": [
+          {
+            "id": "cat_1772845235121",
+            "path": "/ซีรี่ย์ใหม่-2026/",
+            "title": "ซีรี่ย์ใหม่ (2026)"
+          },
+          {
+            "id": "chinese_thai_dub",
+            "path": "/ซีรี่ย์จีน-พากย์ไทย/",
+            "title": "ซีรี่ย์จีน-พากย์ไทย"
+          },
+          {
+            "id": "korean_thai_dub",
+            "path": "/ซีรี่ย์เกาหลีพากย์ไทย/",
+            "title": "ซีรี่ย์เกาหลีพากย์ไทย"
+          },
+          {
+            "id": "western_thai_dub",
+            "path": "/ดูซีรี่ย์ฝรั่ง/ซีรี่ย์ฝรั่ง-พากย์ไทย/",
+            "title": "ซีรี่ย์ฝรั่ง-พากย์ไทย"
+          },
+          {
+            "id": "new_2025",
+            "path": "/ซีรี่ย์ใหม่-2025/",
+            "title": "ซีรี่ย์ใหม่-2025"
+          },
+          {
+            "id": "thai",
+            "path": "/ซีรี่ย์ไทย/",
+            "title": "ซีรี่ย์ไทย"
+          },
+          {
+            "id": "chinese",
+            "path": "/ดูซีรี่ย์จีน/",
+            "title": "ดูซีรี่ย์จีน"
+          },
+          {
+            "id": "korean",
+            "path": "/ดูซีรี่ย์เกาหลี/",
+            "title": "ดูซีรี่ย์เกาหลี"
+          }
+        ]
+      },
+      {
+        "id": "seriesday",
+        "logo": "",
+        "name": "SeriesDay",
+        "domain": "www.serie-days.com",
+        "categories": [
+          {
+            "id": "thai_dub",
+            "path": "/ซีรี่ย์พากย์ไทย/",
+            "title": "ซีรี่ย์พากย์ไทย"
+          },
+          {
+            "id": "chinese",
+            "path": "/ซีรี่ย์จีน/",
+            "title": "ซีรี่ย์จีน"
+          },
+          {
+            "id": "korean",
+            "path": "/ซีรี่ย์เกาหลี/",
+            "title": "ซีรี่ย์เกาหลี"
+          },
+          {
+            "id": "western",
+            "path": "/ซีรี่ย์ฝรั่ง/",
+            "title": "ซีรี่ย์ฝรั่ง"
+          },
+          {
+            "id": "japanese",
+            "path": "/ซีรี่ย์ญี่ปุ่น/",
+            "title": "ซีรี่ย์ญี่ปุ่น"
+          },
+          {
+            "id": "thai",
+            "path": "/ซีรี่ย์ไทย/",
+            "title": "ซีรี่ย์ไทย"
+          },
+          {
+            "id": "new_2025",
+            "path": "/ซีรี่ย์ใหม่-2025/",
+            "title": "ซีรี่ย์ใหม่"
+          },
+          {
+            "id": "netflix",
+            "path": "/netflix/",
+            "title": "Netflix"
+          },
+          {
+            "id": "cat_1772843523913",
+            "path": "/iqiyi/",
+            "title": "ซีรี่ย์ IQIYI"
+          },
+          {
+            "id": "cat_1772843542743",
+            "path": "/wetv/",
+            "title": "ซีรี่ย์ WETV"
+          },
+          {
+            "id": "cat_1772843634537",
+            "path": "/youku/",
+            "title": "ซีรี่ย์ YOUKU"
+          },
+          {
+            "id": "cat_1772843663174",
+            "path": "/viu/",
+            "title": "ซีรี่ย์ VIU"
+          },
+          {
+            "id": "cat_1772843715058",
+            "path": "/hbo/",
+            "title": "ซีรี่ย์ HBO"
+          },
+          {
+            "id": "cat_1772843748305",
+            "path": "/apple-tv/",
+            "title": "ซีรี่ย์ APPLE+"
+          },
+          {
+            "id": "cat_1772843785712",
+            "path": "/disney-plus/",
+            "title": "ซีรี่ย์ DISNEY+"
+          },
+          {
+            "id": "cat_1772843825882",
+            "path": "/amazon-prime-video/",
+            "title": "ซีรี่ย์ AmazonPrime"
+          }
+        ]
+      },
+      {
+        "id": "movie123",
+        "logo": "",
+        "name": "123HDD",
+        "domain": "www.123-hds.com",
+        "categories": [     
+          {
+            "id": "movies",
+            "path": "/หนังใหม่-2026",
+            "title": "หนังออนไลน์"
+          },
+          {
+            "id": "new_2025_movie",
+            "path": "/หนังใหม่-2025",
+            "title": "หนังใหม่-2025"
+          },
+          {
+            "id": "new_2024",
+            "path": "/หนังใหม่-2024",
+            "title": "หนังใหม่-2024"
+          },
+          {
+            "id": "new_2023",
+            "path": "/หนังใหม่-2023",
+            "title": "หนังใหม่-2023"
+          },
+          {
+            "id": "new_2022",
+            "path": "/หนังใหม่-2022",
+            "title": "หนังใหม่-2022"
+          },
+          {
+            "id": "new_2021",
+            "path": "/หนังใหม่-2021",
+            "title": "หนังใหม่-2021"
+          },
+          {
+            "id": "new_2020",
+            "path": "/หนังใหม่-2020",
+            "title": "หนังใหม่-2020"
+          },
+          {
+            "id": "thai_movies",
+            "path": "/ดูหนังออนไลน์/หนังไทย",
+            "title": "หนังไทย"
+          },
+          {
+            "id": "cat_1772700699300",
+            "path": "/ดูซีรี่ย์ออนไลน์/ซีรี่ย์ใหม่-2025",
+            "title": "ซีรี่ย์ใหม่ 2025"
+          },
+          {
+            "id": "cat_1772700774732",
+            "path": "/ดูซีรี่ย์ออนไลน์/ซีรี่ย์ใหม่-2023",
+            "title": "ซีรี่ย์ใหม่ 2023"
+          },
+          {
+            "id": "cat_1772700850477",
+            "path": "/หนังการ์ตูน/anime-อนิเมะ",
+            "title": "Anime ดูอนิเมะ"
+          },
+          {
+            "id": "cat_1772700961272",
+            "path": "/หนังการ์ตูน/animation",
+            "title": "Animation อนิเมชั่น"  
+}
+        ]
+      },
+{
+      "id": "movie24hd",
+      "name": "24HD",
+      "domain": "www.24-hds.com",
+      "categories": [
+      {
+          "id": "new_2026",
+          "title": "หนังใหม่-2026",
+          "path": "/หนังใหม่-2026/"
+        },
+        {
+          "id": "new_2025",
+          "title": "หนังใหม่-2025",
+          "path": "/หนังใหม่-2025/"
+        },
+        {
+          "id": "new_2024",
+          "title": "หนังใหม่-2024",
+          "path": "/หนังใหม่-2024/"
+        },
+        {
+          "id": "new_2023",
+          "title": "หนังใหม่-2023",
+          "path": "/หนังใหม่-2023/"
+        },
+        {
+          "id": "theater",
+          "title": "หนังชนโรง",
+          "path": "/หนังชนโรง/"
+        },
+        {
+          "id": "thai_movies",
+          "title": "หนังไทย",
+          "path": "/หนังไทย/"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "api_urls": {
+        "get_api": "https://www.24-hds.com/get.php",
+        "play_api": "https://main.24playerhd.com/newplaylist/",
+        "play_animemoji": "https://moji.abcdxzy.xyz:8443/vod/"
+      },
+      "home_paths": {
+        "fixmono": "/serie/",
+        "hdd1112": "/ซีรี่ย์จีน-พากย์ไทย/",
+        "movie123": "/",
+        "wowdrama": "/category/the-series-all/",
+        "animemoji": "/",
+        "movie24hd": "/",
+        "seriesday": "/ซีรี่ย์จีน/",
+        "goseries4k": "/category/ดู-ซีรี่ย์ออนไลน์/"
+      },
+      "source_names": {
+        "default": "Fixmono",
+        "fixmono": "Fixmono",
+        "hdd1112": "1112HDD",
+        "movie123": "123HDD",
+        "wowdrama": "WowDrama",
+        "animemoji": "Animemoji",
+        "movie24hd": "24HD",
+        "seriesday": "SeriesDay",
+        "goseries4k": "GoSeries4K"
+      }
+    }
+  },
+  "sig": "175d38d4c69b385069474d9600e78abcb3adabfa58ade3fa7938375863369bb9"
+}
