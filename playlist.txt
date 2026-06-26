@@ -139,7 +139,7 @@
         "id": "hdd1112",
         "logo": "",
         "name": "1112HDD",
-        "domain": "1112hd.live",
+        "domain": "1112hdss.com",
         "categories": [
           {
             "id": "cat_1772845235121",
